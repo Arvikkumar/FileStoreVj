@@ -13,9 +13,7 @@ class script(object):
     
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-sɪᴢᴇ ⚙️: {file_size}
-
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/vj_botz)</b>""" 
+sɪᴢᴇ ⚙️: {file_size}</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -33,38 +31,23 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    CLONE_START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},【ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ +├ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ┤+  ᢵᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ sᴜᴘᴘᴏʀᴛ ᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ
+    CLONE_START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {} 𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??
 
-ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ᴛʜᴇɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ ғʀᴏᴍ ᴍʏ <a href=https://t.me/vj_botz>ᴘᴀʀᴇɴᴛ</a></b>"""
+📢 𝙎𝙚𝙣𝙙 𝙢𝙚 𝙖𝙣𝙮 𝙁𝙞𝙡𝙚 & 𝙔𝙤𝙪 𝙬𝙞𝙡𝙡 𝙂𝙚𝙩 𝙩𝙝𝙚 𝙁𝙞𝙡𝙚 𝙇𝙞𝙣𝙠.
+
+✨ 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨: 𝙄𝙛 𝙮𝙤𝙪 𝙝𝙖𝙫𝙚 𝙖 𝙏𝙚𝙡𝙚𝙂𝙧𝙖𝙢 𝙈𝙤𝙫𝙞𝙚 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙤𝙧 𝘼𝙣𝙮 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡, 𝙏𝙝𝙚𝙣 𝙄𝙩𝙨 𝙐𝙨𝙚𝙛𝙪𝙡 𝙛𝙤𝙧 𝘿𝙖𝙞𝙡𝙮 𝙐𝙨𝙖𝙜𝙚, 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙎𝙚𝙣𝙙 𝙈𝙚 𝙔𝙤𝙪𝙧 𝙁𝙞𝙡𝙚 & 𝙄 𝙬𝙞𝙡𝙡 𝙎𝙚𝙣𝙙 𝙋𝙚𝙧𝙢𝙖𝙣𝙚𝙣𝙩 𝙇𝙞𝙣𝙠 𝙩𝙤 𝙔𝙤𝙪 & 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙬𝙞𝙡𝙡 𝙗𝙚 𝙎𝙖𝙛𝙚 𝙛𝙧𝙤𝙢 𝘾𝙤𝙥𝙮𝙍𝙞𝙜𝙝𝙩 𝙄𝙣𝙛𝙧𝙞𝙣𝙜𝙚𝙢𝙚𝙣𝙩 𝙞𝙨𝙨𝙪𝙚</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
+    ABOUT_TXT = """<b>𝙧𝙚𝙢𝙚𝙢𝙗𝙚𝙧 𝙩𝙝𝙖𝙩 𝙮𝙤𝙪’𝙧𝙚 𝙜𝙤𝙞𝙣𝙜 𝙩𝙤 𝙙𝙞𝙚. 𝙄𝙩’𝙨 𝙖 𝙜𝙧𝙚𝙖𝙩 𝙬𝙖𝙮 𝙩𝙤 𝙧𝙚𝙢𝙚𝙢𝙗𝙚𝙧 𝙩𝙤 𝙡𝙞𝙫𝙚.
 
-🤖 ᴍʏ ɴᴀᴍᴇ: {}
+🤖 ᴍʏ ɴᴀᴍᴇ: {}"""
 
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
-
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
-
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Kingvj01>𝐓𝐞𝐜𝐡 𝐕𝐉</a>
-
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/VJ_Bot_Disscussion>𝐕𝐉 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
-
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/vj_botz>𝐕𝐉 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
-"""
-
-    CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
-
-🤖 ᴍʏ ɴᴀᴍᴇ: {}
-
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
-
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
-
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=tg://user?id={}>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>
+    CABOUT_TXT = """<b>𝙧𝙚𝙢𝙚𝙢𝙗𝙚𝙧 𝙩𝙝𝙖𝙩 𝙮𝙤𝙪’𝙧𝙚 𝙜𝙤𝙞𝙣𝙜 𝙩𝙤 𝙙𝙞𝙚. 𝙄𝙩’𝙨 𝙖 𝙜𝙧𝙚𝙖𝙩 𝙬𝙖𝙮 𝙩𝙤 𝙧𝙚𝙢𝙚𝙢𝙗𝙚𝙧 𝙩𝙤 𝙡𝙞𝙫𝙚.
+    
+🤖 ᴍʏ ɴᴀᴍᴇ: {}</b>
 """
 
 # Don't Remove Credit Tg - @VJ_Botz
@@ -90,7 +73,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
 🔻 /batch - sᴇɴᴅ ғɪʀsᴛ ʟɪɴᴋ ᴏғ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛ ᴛʜᴇɴ ʟᴀsᴛ ᴘᴏsᴛ ʟɪɴᴋ ᴀɴᴅ ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ.
-ᴇx - /batch https://t.me/vj_botz/25 https://t.me/vj_botz/30
+ᴇx - /batch https://t.me/blinkist09/3820 https://t.me/blinkist09/3832
 
 🔻 /base_site - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴇᴛ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ʟɪɴᴋ ᴅᴏᴍᴀɪɴ 
 ᴇx - /base_site ʏᴏᴜʀᴅᴏᴍᴀɪɴ.ᴄᴏᴍ
