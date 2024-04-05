@@ -225,6 +225,7 @@ async def start(client, message):
                      []
                     ]
                 )
+            )
                 
                  k = await msg.reply(f"<b><u> This Movie File/Video will be deleted in <b><u>{AUTO_DELETE} mins</u> 🫥 <i></b>(Due to Copyright Issues)</i></b>",quote=True)
             await asyncio.sleep(AUTO_DELETE_TIME)
