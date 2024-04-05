@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>𝙃𝙚𝙡𝙡𝙤{}👀 𝙢𝙮 𝙣𝙖𝙢𝙚{},𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??\n
+    START_TXT = """<b>𝙃𝙚𝙮{}👀\n𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??
 
 📢 𝙎𝙚𝙣𝙙 𝙢𝙚 𝙖𝙣𝙮 𝙁𝙞𝙡𝙚 & 𝙔𝙤𝙪 𝙬𝙞𝙡𝙡 𝙂𝙚𝙩 𝙩𝙝𝙚 𝙁𝙞𝙡𝙚 𝙇𝙞𝙣𝙠.
 
@@ -35,7 +35,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    CLONE_START_TXT = """<b>𝙃𝙚𝙡𝙡𝙤{}👀 𝙢𝙮 𝙣𝙖𝙢𝙚{} 𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??
+    CLONE_START_TXT = """<b>𝙃𝙚𝙡𝙡𝙤{}👀\n𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??
 
 📢 𝙎𝙚𝙣𝙙 𝙢𝙚 𝙖𝙣𝙮 𝙁𝙞𝙡𝙚 & 𝙔𝙤𝙪 𝙬𝙞𝙡𝙡 𝙂𝙚𝙩 𝙩𝙝𝙚 𝙁𝙞𝙡𝙚 𝙇𝙞𝙣𝙠.
 
@@ -72,14 +72,12 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    HELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ ☺️
+    HELP_TXT = """<b> 👾 Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ
 
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
 🔻 /batch - sᴇɴᴅ ғɪʀsᴛ ʟɪɴᴋ ᴏғ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛ ᴛʜᴇɴ ʟᴀsᴛ ᴘᴏsᴛ ʟɪɴᴋ ᴀɴᴅ ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ.
-ᴇx - /batch https://t.me/yourfiles/1 https://t.me/yourfiles/10
-
-🔻 /broadcast - ʀᴇᴘʟʏ ᴛᴏ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ (ʙᴏᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</b>"""
+ᴇx - /batch https://t.me/yourfiles/1 https://t.me/yourfiles/10 </b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
