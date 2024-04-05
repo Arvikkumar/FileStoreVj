@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>𝙃𝙚𝙮{}👀\n𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??
+    START_TXT = """<b>𝙃𝙚𝙮 {} 👀\n𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??
 
 📢 𝙎𝙚𝙣𝙙 𝙢𝙚 𝙖𝙣𝙮 𝙁𝙞𝙡𝙚 & 𝙔𝙤𝙪 𝙬𝙞𝙡𝙡 𝙂𝙚𝙩 𝙩𝙝𝙚 𝙁𝙞𝙡𝙚 𝙇𝙞𝙣𝙠.
 
@@ -35,7 +35,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    CLONE_START_TXT = """<b>𝙃𝙚𝙡𝙡𝙤{}👀\n𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??
+    CLONE_START_TXT = """<b>𝙃𝙚𝙡𝙡𝙤 {} 👀\n𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚 𝘽𝙤𝙩 & 𝙞𝙩❜𝙨 𝘽𝙚𝙣𝙚𝙛𝙞𝙩𝙨 ??
 
 📢 𝙎𝙚𝙣𝙙 𝙢𝙚 𝙖𝙣𝙮 𝙁𝙞𝙡𝙚 & 𝙔𝙤𝙪 𝙬𝙞𝙡𝙡 𝙂𝙚𝙩 𝙩𝙝𝙚 𝙁𝙞𝙡𝙚 𝙇𝙞𝙣𝙠.
 
@@ -72,7 +72,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    HELP_TXT = """<b> 👾 Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ
+    HELP_TXT = """<b> 👾 𝙃𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙩𝙝𝙞𝙨 𝙗𝙤𝙩
 
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
@@ -84,7 +84,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Ask Doubt on telegram @KingVJ01
 
 
-    CHELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ ☺️
+    CHELP_TXT = """<b> 👾 𝙃𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙩𝙝𝙞𝙨 𝙗𝙤𝙩
 
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
