@@ -60,8 +60,6 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🤖 𝘾𝙧𝙚𝙖𝙩𝙚 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙘𝙡𝙤𝙣𝙚 𝙗𝙤𝙩', callback_data='clone')
-            ],[
             InlineKeyboardButton('🫠 𝙃𝙚𝙡𝙥', callback_data='help'),
             InlineKeyboardButton('😎 𝘼𝙗𝙤𝙪𝙩 ', callback_data='about')
         ]]
@@ -333,8 +331,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🤖 𝘾𝙧𝙚𝙖𝙩𝙚 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙘𝙡𝙤𝙣𝙚 𝙗𝙤𝙩', callback_data='clone')
-            ],[
             InlineKeyboardButton('🫠 𝙃𝙚𝙡𝙥', callback_data='help'),
             InlineKeyboardButton('😎 𝘼𝙗𝙤𝙪𝙩', callback_data='about')
         ]]
