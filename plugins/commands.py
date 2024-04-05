@@ -144,7 +144,7 @@ async def start(client, message):
         sts = await message.reply("**🔺 ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ**")
         b_string = data.split("-", 1)[1]
         decoded = (base64.urlsafe_b64decode(b_string + "=" * (-len(b_string) % 4))).decode("ascii")
-        await message.reply_text(f"<b><u> IMPORTANT </u></b>\n\nThis Movie File/Video will be deleted in <b><u>{AUTO_DELETE} mins</u> 🫥 <i></b> Due to Copyright Issues </i></b>")
+        await message.reply_text(f"<b><u> This Movie File/Video will be deleted in <b><u>{AUTO_DELETE} mins</u> 🫥 <i></b> Due to Copyright Issues </i></b>")
                
         try:
             f_msg_id, l_msg_id, f_chat_id, protect = decoded.split("_", 3)
@@ -166,7 +166,7 @@ async def start(client, message):
                     file_name = getattr(media, 'file_name', '')
                     f_caption = getattr(msg, 'caption', file_name)
                 try:
-                    h = await message.reply_text(f"<b><u> IMPORTANT </u></b>\n\nThis Movie File/Video will be deleted in <b><u>{AUTO_DELETE} minutes</u> 🫥 <i></b>(Due to Copyright Issues)</i></b>")
+                    h = await message.reply_text(f"<b><u> This Movie File/Video will be deleted in <b><u>{AUTO_DELETE} minutes</u> 🫥 <i></b>(Due to Copyright Issues)</i></b>")
                     k = await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else False)
                     
                     asyncio.create_task(delete_after_delay(k, AUTO_DELETE_TIME))
@@ -222,13 +222,11 @@ async def start(client, message):
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
                     [
-                     [
-                         InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}')
-                     ]
+                     []
                     ]
                 )
-            )
-            k = await msg.reply(f"<b><u> IMPORTANT </u></b>\n\nThis Movie File/Video will be deleted in <b><u>{AUTO_DELETE} mins</u> 🫥 <i></b>(Due to Copyright Issues)</i></b>",quote=True)
+                
+                 k = await msg.reply(f"<b><u> This Movie File/Video will be deleted in <b><u>{AUTO_DELETE} mins</u> 🫥 <i></b>(Due to Copyright Issues)</i></b>",quote=True)
             await asyncio.sleep(AUTO_DELETE_TIME)
             await msg.delete()
             await g.delete()
