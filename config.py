@@ -50,8 +50,8 @@ BOT_USERNAME = environ.get("BOT_USERNAME", "MagicBox02_bot") # your bot username
 PICS = (environ.get('PICS', 'https://graph.org/file/2e6e2b96c5e694f6cca55.jpg https://graph.org/file/2e6e2b96c5e694f6cca55.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
-AUTO_DELETE = int(environ.get("AUTO_DELETE", "120")) # Time in Minutes
-AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "7200")) # Time in Seconds
+AUTO_DELETE = int(environ.get("AUTO_DELETE", "60")) # Time in Minutes
+AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "3600")) # Time in Seconds
 
 # Channel Information
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002057723971"))
